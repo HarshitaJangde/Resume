@@ -13,7 +13,7 @@ This repository contains the most updated versions of my resume in both PDF form
 ## 🚀 Projects Highlighted
 
 - 💻 *SakhiSangam* – Financial Inclusion App for rural women
-- 🤖 *AutoML System App* – No-code solution to build and test ML models
+- 🤖 *AutoML System App* – To build and test ML models
 - 🧬 *Breast Cancer Detection* with Feature Optimization
 
 
