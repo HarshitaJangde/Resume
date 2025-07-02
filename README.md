@@ -21,6 +21,6 @@ This repository contains the most updated versions of my resume in both PDF form
 
 - Email: harshitajangde@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/harshita-jangde/
-- GitHub: [[@harshita-jangde](https://github.com/harshita-jangde)](https://github.com/HarshitaJangde)
+- GitHub: https://github.com/HarshitaJangde
 
 ---
